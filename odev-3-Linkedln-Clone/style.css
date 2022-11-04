@@ -1,0 +1,111 @@
+/*******************************/
+/*----- Project Style -----*/
+/*******************************/
+
+.bg-color {
+    background-color: #ecebe8;
+}
+
+input.searche {
+    height: 36px;
+    max-width: 500px;
+    background-color: #eef3f8;
+    border: 0;
+}
+
+.menutext {
+    font-size: 13px;
+    font-family: 'Oswald', sans-serif;
+    color: rgb(128, 123, 123);
+    margin-top: -1px;
+    font-weight: lighter;
+}
+
+.menutext:hover {
+    color: black;
+}
+
+.mediatext {
+    font-size: 15px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #5f5f5f;
+
+}
+
+button.mediatext {
+    color: #5f5f5f;
+}
+
+button.mediatext:hover {
+    color: #777676;
+}
+
+ul>li>a>i {
+    color: rgb(128, 123, 123);
+    margin-top: -1px;
+}
+
+ul>li>a>i:hover {
+    color: black;
+}
+
+svg {
+    color: rgb(128, 123, 123);
+}
+
+svg:hover {
+    color: black;
+}
+
+input.content {
+    border-radius: 40px;
+    height: 45px;
+}
+
+.view {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+        Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+    font-size: 12px;
+    font-weight: 500;
+    color: #5f5f5f;
+}
+
+div.card {
+    border-radius: 10px;
+}
+
+.post-images-style {
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    margin-left: -15px;
+    margin-right: 10px;
+}
+
+.post-icons {
+    color: black;
+    font-size: 24px
+}
+
+.post-text {
+    font-size: 12px;
+    color: gray;
+    font-weight: 600;
+}
+
+
+.post-footer {
+    font-size: 14px;
+    color: rgb(105, 103, 103);
+    font-weight: 500;
+}
+
+.links {
+    color: rgb(94, 92, 92);
+    font-size: 12px;
+    font-weight: 500;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 
+    Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 
+    'Helvetica Neue', sans-serif;
+}

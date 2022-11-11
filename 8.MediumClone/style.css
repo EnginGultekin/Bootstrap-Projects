@@ -1,0 +1,72 @@
+/*--------------- CSS Style ---------------*/
+
+body {
+    font-family: 'PT Serif', serif;
+}
+
+.number-font {
+    font-family: 'Roboto', sans-serif;
+    color: rgb(230, 230, 230);
+}
+
+
+.bg-yellow {
+    background-color: rgb(255, 192, 23);
+}
+
+.border-bottom-dark {
+    border-bottom: 1px solid rgb(41, 41, 41);
+}
+
+.header-button {
+    text-align: center;
+    border-top-left-radius: 99em;
+    border-top-right-radius: 99em;
+    border-bottom-right-radius: 99em;
+    border-bottom-left-radius: 99em;
+    background-color: rgb(25, 25, 25);
+    padding: 7px 16px 9px;
+    width: 110px;
+    line-height: 20px;
+    font-weight: 500;
+    letter-spacing: inherit;
+}
+
+.second-body-buttons {
+    transition: 300ms ease 0s;
+    border-radius: 100px;
+    padding: 2px 8px;
+    color: rgb(117, 117, 117);
+    font-size: 13px;
+    background-color: rgb(242, 242, 242);
+    position: relative;
+    font-weight: 400;
+    white-space: nowrap;
+    line-height: 20px;
+}
+
+/* *********************!!!!!!!!!!!!!!!!!!--------- HOVER ---------!!!!!!!!!!!!!!!!!!********************* */
+.second-body-buttons:hover {
+    background-color: rgb(221, 213, 219);
+}
+
+.aside-buttons>li {
+    margin-bottom: 8px;
+}
+
+.aside-header {
+    margin-bottom: 15px;
+    font-size: 12px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.083em;
+    color: rgb(41, 41, 41);
+}
+
+.aside-text>li {
+    padding: 5px;
+    color: rgb(117, 117, 117);
+    line-height: 20px;
+    font-size: 14px;
+    margin: 0;
+}
